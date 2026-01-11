@@ -1,35 +1,58 @@
-## Hi there! 👋
+name: Generate snake animation
 
-I'm **Abhi Khatiwada**, a passionate developer from **Nepal**. I love creating innovative solutions and exploring new technologies!
+on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
 
-## About Me
+  workflow_dispatch:
 
-I'm a developer with a keen interest in building web applications. Based in Nepal, I focus on crafting engaging user experiences through code. I enjoy learning about new technologies and applying them to my projects.
+  push:
+    branches:
+    - main
 
-## Skills & Technologies
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
 
-JavaScript,HTML,CSS,Python,Git,GitHub
+    steps:
+      - name: generate snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/snake.svg?palette=github-dark
 
-## Top Projects
 
-- [Social-Media](https://github.com/AA-maker-dev/Social-Media): This is the prototype for a social media website. **Stars:** 0, **Language:** JavaScript, **Forks:** 0, **Open Issues:** 0.
-- [portfolio-website](https://github.com/AA-maker-dev/portfolio-website): A personal portfolio website to showcase my projects. **Stars:** 0, **Language:** HTML, **Forks:** 0, **Open Issues:** 0.
-- [AA-maker-dev](https://github.com/AA-maker-dev/AA-maker-dev): My GitHub profile repository. **Stars:** 0, **Language:** N/A, **Forks:** 0, **Open Issues:** 0.
+      - name: push snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+###
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AA-maker-dev&show_icons=true&theme=radical)
+<img src="https://raw.githubusercontent.com/AA-maker-dev/AA-maker-dev/output/snake.svg" alt="Snake animation" />
 
-## Recent Activity
+###
 
-- Pushed updates to the [Social-Media](https://github.com/AA-maker-dev/Social-Media) repository.
-- Pushed updates to the [AA-maker-dev](https://github.com/AA-maker-dev/AA-maker-dev) repository.
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
 
-## Latest Blog Posts
+###
 
-Currently, I do not have any blog posts to share. Stay tuned!
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
 
-## Connect with Me
-
-[GitHub](https://github.com/AA-maker-dev) | [Twitter](https://twitter.com) | [LinkedIn](https://linkedin.com) 
-
-Feel free to reach out!
+###
