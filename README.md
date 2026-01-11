@@ -8,7 +8,7 @@ I'm a developer with a keen interest in building web applications. Based in Nepa
 
 ## Skills & Technologies
 
-JavaScript,HTML,CSS,React,Node.js,Express,Git,GitHub,Docker
+JavaScript,HTML,CSS,Python,Git,GitHub
 
 ## Top Projects
 
@@ -16,11 +16,6 @@ JavaScript,HTML,CSS,React,Node.js,Express,Git,GitHub,Docker
 - [portfolio-website](https://github.com/AA-maker-dev/portfolio-website): A personal portfolio website to showcase my projects. **Stars:** 0, **Language:** HTML, **Forks:** 0, **Open Issues:** 0.
 - [AA-maker-dev](https://github.com/AA-maker-dev/AA-maker-dev): My GitHub profile repository. **Stars:** 0, **Language:** N/A, **Forks:** 0, **Open Issues:** 0.
 
-## GitHub Stats
-
-🌟 Public Repositories: 4
-👥 Followers: 0
-🔗 Following: 0
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AA-maker-dev&show_icons=true&theme=radical)
 
