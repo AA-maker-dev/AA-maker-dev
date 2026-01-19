@@ -7,7 +7,7 @@ I'm a passionate programmer and tech enthusiast who loves building projects and 
 I have experience with the following programming languages and technologies:
 
 - **Languages:** C, C++, Java, Python, JavaScript, HTML, CSS  
-- **Frameworks/Libraries:** React  
+- **Frameworks/Libraries:** React(Learning)  
 
 ## 🌱 Currently Learning
 
