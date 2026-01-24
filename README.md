@@ -76,16 +76,21 @@
 
 ## 🏆 Achievements & Coding Stats
 
-### 💻 LeetCode Stats
+### 💻 LeetCode Activity
 <p align="center">
-  <a href="https://leetcode.com/u/8kdFRd6fAT/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=black&label=Profile" />
-  </a>
+  <img src="https://img.shields.io/badge/LeetCode%20Problems-Solving%20Daily-FFA116?style=for-the-badge&logo=LeetCode" />
 </p>
 
-<p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=8kdFRd6fAT&theme=dark" />
-</p>
+<div align="center">
+  
+| 🎯 Metric | 📊 Status |
+|-----------|-----------|
+| **Profile** | [Visit LeetCode](https://leetcode.com/u/8kdFRd6fAT/) |
+| **Focus** | Data Structures & Algorithms |
+| **Difficulty** | Hard Problems |
+| **Consistency** | Daily Solver |
+
+</div>
 
 ---
 
@@ -97,13 +102,15 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🎨 Weekly Development
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AA-maker-dev/AA-maker-dev/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AA-maker-dev/AA-maker-dev/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AA-maker-dev/AA-maker-dev/output/github-contribution-grid-snake.svg" />
-</picture>
+<p align="center">
+  <img src="https://img.shields.io/badge/This%20Week-Building%20Amazing%20Projects-0066ff?style=flat-square" />
+</p>
+
+<p align="center">
+  <img height="300" src="https://wakatime.com/share/@AA-maker-dev/all-time-since-today.svg" />
+</p>
 
 ---
 
