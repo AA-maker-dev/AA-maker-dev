@@ -1,28 +1,28 @@
 <h1 align="center">Hey 👋, I'm Abhi Khatiwada</h1>
 
-<p align="left">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer;AI+%26+ML+Enthusiast;Always+Learning+%26+Building" />
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/AA-maker-dev/AA-maker-dev">
     <img src="https://phone-customization.vercel.app/api/Phone?text=AK&textColor=000000&textBg=ffffff&color=a61c1c&displayColor=c89d9d&phoneBtn=bfa6a6&direction=leftRight" alt="phone widget" />
   </a>
 </p>
 
-<div align="right">
-  <img height="200" src="https://cdn.pfps.gg/pfps/1013-samurai.gif"  />
-</div>
-
-###
-
 ## 🚀 About Me  
 
-- 💻 Passionate about **building real-world projects**  
-- 🤖 Strong interest in **AI, ML & automation**  
-- 🏆 Active **hackathon participant** & project shipper  
-- 🌱 Always learning and leveling up  
-
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="flex: 1;">
+    - 💻 Passionate about **building real-world projects**  
+    - 🤖 Strong interest in **AI, ML & automation**  
+    - 🏆 Active **hackathon participant** & project shipper  
+    - 🌱 Always learning and leveling up  
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <img height="200" src="https://cdn.pfps.gg/pfps/1013-samurai.gif" alt="samurai gif" />
+  </div>
+</div>
 ---
 
 ## 📊 Contribution Graph:
