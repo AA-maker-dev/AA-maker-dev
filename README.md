@@ -1,6 +1,10 @@
 <h1 align="center">Hey 👋, I'm Abhi Khatiwada</h1>
 <h3 align="center">Full-Stack Developer • AI Enthusiast • Hackathon Builder</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer;AI+%26+ML+Enthusiast;Always+Learning+%26+Building" />
+</p>
+
 ## 🚀 About Me  
 
 - 💻 Passionate about **building real-world projects**  
@@ -64,7 +68,18 @@
 
 ---
 
-## 🏆 Achievements  
+## 🏆 Achievements & Coding Stats
+
+### 💻 LeetCode Stats
+<p align="center">
+  <a href="https://leetcode.com/u/8kdFRd6fAT/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=black&label=Profile" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=8kdFRd6fAT&theme=dark" />
+</p>
 
 ---
 
@@ -73,6 +88,16 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AA-maker-dev/AA-maker-dev/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AA-maker-dev/AA-maker-dev/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AA-maker-dev/AA-maker-dev/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
