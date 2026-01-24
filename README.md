@@ -5,6 +5,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer;AI+%26+ML+Enthusiast;Always+Learning+%26+Building" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/AA-maker-dev/AA-maker-dev">
+    <img src="https://phone-customization.vercel.app/api/Phone?text=AK&textColor=000000&textBg=ffffff&color=a61c1c&displayColor=c89d9d&phoneBtn=bfa6a6&direction=leftRight" alt="phone widget" />
+  </a>
+</p>
+
 ## 🚀 About Me  
 
 - 💻 Passionate about **building real-world projects**  
