@@ -25,7 +25,6 @@ I'm a passionate programmer and tech enthusiast who loves building projects and 
 ---
 [![](https://visitcount.itsvg.in/api?id=AA-maker-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 📫 Contact Me
 
