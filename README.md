@@ -1,17 +1,11 @@
 <h1 align="center">Hey 👋, I'm Abhi Khatiwada</h1>
 <h3 align="center">Full-Stack Developer • AI Enthusiast • Hackathon Builder</h3>
 
-<p align="center">
-  <a href="https://www.abhi88.com.np/" target="_blank">🌐 Website</a> •
-  <a href="https://www.youtube.com/channel/UCdTetYW7keWmKZ5a3_-B23Q" target="_blank">▶️ YouTube</a> •
-  <a href="https://instagram.com/abhi_khatiwada" target="_blank">📸 Instagram</a> •
-  <a href="mailto:khatiwadaabhi123@gmail.com">📧 Email</a>
-</p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=AA-maker-dev&icon=0&color=0" />
-</p>
-
+## 🌐 Socials:
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/abhi_khatiwada?igsh=MW42a2t6NXJ4cGNwbA==) 
+  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@abh1-o2c?si=rXWFVsnnPX3t5DbJ) 
+  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khatiwadaabhi123@gmail.com)
+  
 ---
 
 ## 🚀 About Me  
@@ -80,7 +74,7 @@
 
 ---
 
-## 💡 Random Dev Quote  
+## 💡 Dev Quote  
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
@@ -90,10 +84,8 @@
 
 ## 📬 Contact  
 
-- 📧 Email: **khatiwadaabhi123@gmail.com**  
-- 🌐 Website: **https://www.abhi88.com.np**  
-- ▶️ YouTube: **Abhi Khatiwada**  
-- 🐙 GitHub: **AA-maker-dev**
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/abhi_khatiwada?igsh=MW42a2t6NXJ4cGNwbA==) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@abh1-o2c?si=rXWFVsnnPX3t5DbJ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khatiwadaabhi123@gmail.com) 
 
 ---
 
