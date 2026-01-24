@@ -82,17 +82,6 @@
 
 ---
 
-## 🎨 Productivity Stats
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Total%20Commits-1%2C686+-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Code%20Time-Active-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Projects-In%20Progress-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus%20Area-Full%20Stack-purple?style=flat-square" />
-</p>
-
----
-
 ## 📬 Contact  
 
 
