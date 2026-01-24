@@ -68,10 +68,6 @@
 
 ## 🏆 Achievements  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AA-maker-dev&theme=radical&no-frame=true" />
-</p>
-
 ---
 
 ## 💡 Dev Quote  
