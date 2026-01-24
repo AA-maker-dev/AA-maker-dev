@@ -1,13 +1,6 @@
 <h1 align="center">Hey 👋, I'm Abhi Khatiwada</h1>
 <h3 align="center">Full-Stack Developer • AI Enthusiast • Hackathon Builder</h3>
 
-## 🌐 Socials:
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/abhi_khatiwada?igsh=MW42a2t6NXJ4cGNwbA==) 
-  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@abh1-o2c?si=rXWFVsnnPX3t5DbJ) 
-  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khatiwadaabhi123@gmail.com)
-  
----
-
 ## 🚀 About Me  
 
 - 💻 Passionate about **building real-world projects**  
@@ -16,6 +9,10 @@
 - 🌱 Always learning and leveling up  
 
 ---
+
+## 📊 Currently Listening To:
+![spotify widget](https://spootify-zeta.vercel.app/api/Spootify?userName=31gqkwk5estxhr6njcznswbynosa&style=bar&color=1DB954)
+
 
 ## 🛠️ Tech Stack  
 
