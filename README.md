@@ -84,18 +84,6 @@
 
 ---
 
-## 📈 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AA-maker-dev&theme=dark" alt="streak graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AA-maker-dev&theme=dark&no-bg=true" alt="trophy graph" />
-</div>
-
----
-
 ## 🎯 Contribution Activity
 
 <picture>
