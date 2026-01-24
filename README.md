@@ -1,14 +1,20 @@
 <h1 align="center">Hey 👋, I'm Abhi Khatiwada</h1>
 
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer;AI+%26+ML+Enthusiast;Always+Learning+%26+Building" />
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/AA-maker-dev/AA-maker-dev">
     <img src="https://phone-customization.vercel.app/api/Phone?text=AK&textColor=000000&textBg=ffffff&color=a61c1c&displayColor=c89d9d&phoneBtn=bfa6a6&direction=leftRight" alt="phone widget" />
   </a>
 </p>
+
+<div align="right">
+  <img height="200" src="https://cdn.pfps.gg/pfps/1013-samurai.gif"  />
+</div>
+
+###
 
 ## 🚀 About Me  
 
@@ -91,3 +97,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AA-maker-dev/AA-maker-dev/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AA-maker-dev/AA-maker-dev/output/pacman-contribution-graph.svg">
 </picture>
+
