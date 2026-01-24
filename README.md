@@ -12,14 +12,10 @@
 
 ## 🚀 About Me  
 
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
-  <div style="flex: 1;">
-    - 💻 Passionate about **building real-world projects**  
-    - 🤖 Strong interest in **AI, ML & automation**  
-    - 🏆 Active **hackathon participant** & project shipper  
-    - 🌱 Always learning and leveling up  
-  </div>
-</div>
+- 💻 Passionate about **building real-world projects**  
+- 🤖 Strong interest in **AI, ML & automation**  
+- 🏆 Active **hackathon participant** & project shipper  
+- 🌱 Always learning and leveling up
 ---
 
 ## 📊 Contribution Graph:
