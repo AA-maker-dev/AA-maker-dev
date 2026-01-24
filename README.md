@@ -10,11 +10,12 @@
 
 ---
 
-## 📊 Currently Listening To:
-![spotify widget](https://spootify-zeta.vercel.app/api/Spootify?userName=31gqkwk5estxhr6njcznswbynosa&style=bar&color=1DB954)
+## � Coding Activity:
+<p align="center">
+  <img src="https://wakatime.com/share/@AA-maker-dev/all-time.png" />
+</p>
 
-
-## 🛠️ Tech Stack  
+---
 
 ### 💻 Languages  
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
