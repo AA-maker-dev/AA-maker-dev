@@ -69,28 +69,12 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AA-maker-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AA-maker-dev&theme=dark&layout=compact" />
 </p>
-
----
-
-## 🏆 Achievements & Coding Stats
-
-### 💻 LeetCode Activity
-<p align="center">
-  <img src="https://img.shields.io/badge/LeetCode%20Problems-Solving%20Daily-FFA116?style=for-the-badge&logo=LeetCode" />
-</p>
-
-<div align="center">
-  
-| 🎯 Metric | 📊 Status |
-|-----------|-----------|
-| **Profile** | [Visit LeetCode](https://leetcode.com/u/8kdFRd6fAT/) |
-| **Focus** | Data Structures & Algorithms |
-| **Difficulty** | Hard Problems |
-| **Consistency** | Daily Solver |
-
-</div>
 
 ---
 
@@ -102,14 +86,13 @@
 
 ---
 
-## 🎨 Weekly Development
+## 🎨 Productivity Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/This%20Week-Building%20Amazing%20Projects-0066ff?style=flat-square" />
-</p>
-
-<p align="center">
-  <img height="300" src="https://wakatime.com/share/@AA-maker-dev/all-time-since-today.svg" />
+  <img src="https://img.shields.io/badge/Total%20Commits-1%2C686+-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Code%20Time-Active-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Projects-In%20Progress-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus%20Area-Full%20Stack-purple?style=flat-square" />
 </p>
 
 ---
