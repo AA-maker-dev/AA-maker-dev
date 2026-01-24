@@ -12,15 +12,15 @@
 
 ## 🚀 About Me  
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
   <div style="flex: 1;">
     - 💻 Passionate about **building real-world projects**  
     - 🤖 Strong interest in **AI, ML & automation**  
     - 🏆 Active **hackathon participant** & project shipper  
     - 🌱 Always learning and leveling up  
   </div>
-  <div style="flex: 1; text-align: right;">
-    <img height="200" src="https://cdn.pfps.gg/pfps/1013-samurai.gif" alt="samurai gif" />
+  <div style="flex: 1; text-align: center;">
+    <img height="250" src="https://cdn.pfps.gg/pfps/1013-samurai.gif" alt="samurai gif" />
   </div>
 </div>
 ---
