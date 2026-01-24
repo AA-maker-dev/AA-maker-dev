@@ -10,9 +10,9 @@
 
 ---
 
-## � Coding Activity:
+## 📊 Contribution Graph:
 <p align="center">
-  <img src="https://wakatime.com/share/@AA-maker-dev/all-time.png" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AA-maker-dev&theme=react-dark&hide_border=true" />
 </p>
 
 ---
