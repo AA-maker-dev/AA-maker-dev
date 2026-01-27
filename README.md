@@ -63,7 +63,7 @@
 ## Badges
 
 <p align="center">
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d1422490-fb78-4886-91b0-4bd00136c2f5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d1422490-fb78-4886-91b0-4bd00136c2f5" data-share-badge-host="https://www.credly.com"></div>
 </p>
 
 ---
@@ -98,4 +98,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AA-maker-dev/AA-maker-dev/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AA-maker-dev/AA-maker-dev/output/pacman-contribution-graph.svg">
 </picture>
+
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
