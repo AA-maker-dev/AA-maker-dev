@@ -63,7 +63,9 @@
 ## Badges
 
 <p align="center">
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d1422490-fb78-4886-91b0-4bd00136c2f5" data-share-badge-host="https://www.credly.com"></div>
+  <a href="https://www.credly.com/badges/d1422490-fb78-4886-91b0-4bd00136c2f5" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/c6fcddbf-b2e1-4310-b20f-4e4f3a6ef6d6/AI_Automation_Explorer.png" alt="AI Automation Explorer" width="150" height="150">
+  </a>
 </p>
 
 ---
