@@ -62,11 +62,8 @@
 
 ## Badges
 
-<p align="center">
-  <a href="https://www.credly.com/badges/d1422490-fb78-4886-91b0-4bd00136c2f5" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/c6fcddbf-b2e1-4310-b20f-4e4f3a6ef6d6/AI_Automation_Explorer.png" alt="AI Automation Explorer" width="150" height="150">
-  </a>
-</p>
+<img width="120" height="120" alt="ai-automation-explorer" src="https://github.com/user-attachments/assets/e5d91e52-9124-4de3-99ff-1b57030637a1" />
+>
 
 ---
 
