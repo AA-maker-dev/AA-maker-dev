@@ -66,6 +66,9 @@
   <a href="https://www.credly.com/earner/earned/badge/d1422490-fb78-4886-91b0-4bd00136c2f5" target="_blank">
     <img width="120" height="120" alt="ai-automation-explorer" src="https://github.com/user-attachments/assets/e5d91e52-9124-4de3-99ff-1b57030637a1" />
   </a>
+  <a href="blob:https://skillbuilder.aws/d690e06f-b63a-4090-bff9-3098c16b9fd7" target="_blank">
+    <img width="120" height="120" alt="AWS Certified Cloud Practitioner" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bde-b3e7-62b692aa1cae/image.png" />
+  </a>
 </p>
 
 
