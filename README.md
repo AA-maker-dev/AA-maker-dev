@@ -67,7 +67,8 @@
     <img width="120" height="120" alt="ai-automation-explorer" src="https://github.com/user-attachments/assets/e5d91e52-9124-4de3-99ff-1b57030637a1" />
   </a>
   <a href="https://www.credly.com/earner/earned/badge/3f70d846-b26b-4cf8-b0fd-472fda8d298b" target="_blank">
-    <img width="120" height="120" alt="badge" src="https://github.com/user-attachments/assets/placeholder" />
+    <img width="120" height="120" alt="make-foundation 1" src="https://github.com/user-attachments/assets/91d158d5-c7e3-457d-ae1e-715da3219f37" />
+" />
   </a>
 </p>
 
