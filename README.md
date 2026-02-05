@@ -70,6 +70,7 @@
     <img width="120" height="120" alt="make-foundation" src="https://github.com/user-attachments/assets/91d158d5-c7e3-457d-ae1e-715da3219f37" />
   </a>
 </p>
+<img width="600" height="600" alt="make-basics" src="https://github.com/user-attachments/assets/0a590f65-48f3-4bbc-bdbd-a104eb804d5d" />
 
 
 ---
