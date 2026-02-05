@@ -106,5 +106,3 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AA-maker-dev/AA-maker-dev/output/pacman-contribution-graph.svg">
 </picture>
 
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
