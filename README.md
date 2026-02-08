@@ -62,52 +62,16 @@
 
 ## Badges
 
-<svg viewBox="0 0 1200 150" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; display: block; margin: 20px auto;">
-  <defs>
-    <style>
-      .badge-container {
-        animation: scroll-badges 20s linear infinite;
-      }
-      @keyframes scroll-badges {
-        0% { transform: translateX(0); }
-        100% { transform: translateX(-1080px); }
-      }
-    </style>
-  </defs>
-  
-  <g class="badge-container">
-    <!-- Set 1 -->
-    <a href="https://www.credly.com/earner/earned/badge/d1422490-fb78-4886-91b0-4bd00136c2f5" target="_blank">
-      <image x="10" y="15" width="120" height="120" href="https://github.com/user-attachments/assets/e5d91e52-9124-4de3-99ff-1b57030637a1"/>
-    </a>
-    <a href="https://www.credly.com/earner/earned/badge/3f70d846-b26b-4cf8-b0fd-472fda8d298b" target="_blank">
-      <image x="140" y="15" width="120" height="120" href="https://github.com/user-attachments/assets/91d158d5-c7e3-457d-ae1e-715da3219f37"/>
-    </a>
-    <a href="https://www.credly.com/badges/74d436dd-fb57-45f5-b09f-d9f76a7dd940/public_url" target="_blank">
-      <image x="270" y="15" width="120" height="120" href="https://github.com/user-attachments/assets/0a590f65-48f3-4bbc-bdbd-a104eb804d5d"/>
-    </a>
-    <a href="https://tryhackme.com/khatiwadaabhi123/badges/terminaled?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=696111927ade7f19ae5499aa" target="_blank">
-      <image x="400" y="15" width="120" height="120" href="https://assets.tryhackme.com/img/badges/linux.png"/>
-    </a>
-    <a href="https://tryhackme.com/khatiwadaabhi123/badges/first-4-rooms?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=696111927ade7f19ae5499aa" target="_blank">
-      <image x="530" y="15" width="120" height="120" href="https://assets.tryhackme.com/img/badges/firstfour.png"/>
-    </a>
-    <a href="https://tryhackme.com/room/offensivesecurityintrokK?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&sharerId=696111927ade7f19ae5499aa" target="_blank">
-      <image x="660" y="15" width="120" height="120" href="https://tryhackme-images.s3.amazonaws.com/room-icons/85c37a8504a5db86f501beb204d2b78e8e7270d05ee0b036a4324cf48e04fecf.66704dd0e54a1f39bff7b1a1-1735573222714"/>
-    </a>
-    <a href="https://tryhackme.com/room/careersincyber5zy1sk0al?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&sharerId=696111927ade7f19ae5499aa" target="_blank">
-      <image x="790" y="15" width="120" height="120" href="https://tryhackme-images.s3.amazonaws.com/room-icons/e563831b46440404db43861a5246a6eed26ef95b14afe6ca310efee07958992b.png"/>
-    </a>
-    <a href="https://tryhackme.com/room/dnsindetail?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&sharerId=696111927ade7f19ae5499aa" target="_blank">
-      <image x="920" y="15" width="120" height="120" href="https://tryhackme-images.s3.amazonaws.com/room-icons/presec-room-image9.png"/>
-    </a>
-    
-    <!-- Set 2 (repeat for seamless loop) -->
-    <a href="https://www.credly.com/earner/earned/badge/d1422490-fb78-4886-91b0-4bd00136c2f5" target="_blank">
-      <image x="1050" y="15" width="120" height="120" href="https://github.com/user-attachments/assets/e5d91e52-9124-4de3-99ff-1b57030637a1"/>
-    </a>
-  </g>
-</svg>
+<p align="center">
+  <a href="https://www.credly.com/earner/earned/badge/d1422490-fb78-4886-91b0-4bd00136c2f5" target="_blank"><img width="120" height="120" alt="ai-automation-explorer" src="https://github.com/user-attachments/assets/e5d91e52-9124-4de3-99ff-1b57030637a1"/></a>
+  <a href="https://www.credly.com/earner/earned/badge/3f70d846-b26b-4cf8-b0fd-472fda8d298b" target="_blank"><img width="120" height="120" alt="make-foundation" src="https://github.com/user-attachments/assets/91d158d5-c7e3-457d-ae1e-715da3219f37"/></a>
+  <a href="https://www.credly.com/badges/74d436dd-fb57-45f5-b09f-d9f76a7dd940/public_url" target="_blank"><img width="120" height="120" alt="make-basics" src="https://github.com/user-attachments/assets/0a590f65-48f3-4bbc-bdbd-a104eb804d5d"/></a>
+  <a href="https://tryhackme.com/khatiwadaabhi123/badges/terminaled?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=696111927ade7f19ae5499aa" target="_blank"><img width="120" height="120" alt="TryHackMe Terminaled Badge" src="https://assets.tryhackme.com/img/badges/linux.png"/></a>
+  <a href="https://tryhackme.com/khatiwadaabhi123/badges/first-4-rooms?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=696111927ade7f19ae5499aa" target="_blank"><img width="120" height="120" alt="TryHackMe First 4 Rooms Badge" src="https://assets.tryhackme.com/img/badges/firstfour.png"/></a>
+  <a href="https://tryhackme.com/room/offensivesecurityintrokK?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&sharerId=696111927ade7f19ae5499aa" target="_blank"><img width="120" height="120" alt="Offensive Security Intro Room" src="https://tryhackme-images.s3.amazonaws.com/room-icons/85c37a8504a5db86f501beb204d2b78e8e7270d05ee0b036a4324cf48e04fecf.66704dd0e54a1f39bff7b1a1-1735573222714"/></a>
+  <a href="https://tryhackme.com/room/careersincyber5zy1sk0al?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&sharerId=696111927ade7f19ae5499aa" target="_blank"><img width="120" height="120" alt="Careers in Cyber Room" src="https://tryhackme-images.s3.amazonaws.com/room-icons/e563831b46440404db43861a5246a6eed26ef95b14afe6ca310efee07958992b.png"/></a>
+  <a href="https://tryhackme.com/room/dnsindetail?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&sharerId=696111927ade7f19ae5499aa" target="_blank"><img width="120" height="120" alt="DNS in Detail Room" src="https://tryhackme-images.s3.amazonaws.com/room-icons/presec-room-image9.png"/></a>
+</p>
 
 
 ---
