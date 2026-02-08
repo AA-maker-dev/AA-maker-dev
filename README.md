@@ -71,6 +71,7 @@
   <a href="https://tryhackme.com/room/offensivesecurityintrokK?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&sharerId=696111927ade7f19ae5499aa" target="_blank"><img width="120" height="120" alt="Offensive Security Intro Room" src="https://tryhackme-images.s3.amazonaws.com/room-icons/85c37a8504a5db86f501beb204d2b78e8e7270d05ee0b036a4324cf48e04fecf.66704dd0e54a1f39bff7b1a1-1735573222714"/></a>
   <a href="https://tryhackme.com/room/careersincyber5zy1sk0al?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&sharerId=696111927ade7f19ae5499aa" target="_blank"><img width="120" height="120" alt="Careers in Cyber Room" src="https://tryhackme-images.s3.amazonaws.com/room-icons/e563831b46440404db43861a5246a6eed26ef95b14afe6ca310efee07958992b.png"/></a>
   <a href="https://tryhackme.com/room/dnsindetail?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&sharerId=696111927ade7f19ae5499aa" target="_blank"><img width="120" height="120" alt="DNS in Detail Room" src="https://tryhackme-images.s3.amazonaws.com/room-icons/presec-room-image9.png"/></a>
+  <a href="https://tryhackme.com/room/httpindetail?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&sharerId=696111927ade7f19ae5499aa" target="_blank"><img width="120" height="120" alt="HTTP in Detail Room" src="https://tryhackme-images.s3.amazonaws.com/room-icons/presec-room-image10.png"/></a>
 </p>
 
 
