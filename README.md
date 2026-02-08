@@ -65,17 +65,11 @@
 <p align="center">
   <a href="https://www.credly.com/earner/earned/badge/d1422490-fb78-4886-91b0-4bd00136c2f5" target="_blank">
     <img width="120" height="120" alt="ai-automation-explorer" src="https://github.com/user-attachments/assets/e5d91e52-9124-4de3-99ff-1b57030637a1" style="margin-right: 20px;"/>
-  </a>
-  <a href="https://www.credly.com/earner/earned/badge/3f70d846-b26b-4cf8-b0fd-472fda8d298b" target="_blank">
+  </a><a href="https://www.credly.com/earner/earned/badge/3f70d846-b26b-4cf8-b0fd-472fda8d298b" target="_blank">
     <img width="120" height="120" alt="make-foundation" src="https://github.com/user-attachments/assets/91d158d5-c7e3-457d-ae1e-715da3219f37" style="margin-right: 20px;"/>
-  </a>
-  <a href="#" target="_blank">
-    <img width="120" height="120" alt="make-basics" src="https://github.com/user-attachments/assets/0a590f65-48f3-4bbc-bdbd-a104eb804d5d" style="margin-right: 20px;"/>
-  </a>
-  <a href="https://tryhackme.com/khatiwadaabhi123/badges/terminaled?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=696111927ade7f19ae5499aa" target="_blank">
+  </a><img width="120" height="120" alt="make-basics" src="https://github.com/user-attachments/assets/0a590f65-48f3-4bbc-bdbd-a104eb804d5d" style="margin-right: 20px;"/><a href="https://tryhackme.com/khatiwadaabhi123/badges/terminaled?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=696111927ade7f19ae5499aa" target="_blank">
     <img width="120" height="120" alt="TryHackMe Terminaled Badge" src="https://assets.tryhackme.com/img/badges/linux.png" style="margin-right: 20px;"/>
-  </a>
-  <a href="https://tryhackme.com/khatiwadaabhi123/badges/first-4-rooms?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=696111927ade7f19ae5499aa" target="_blank">
+  </a><a href="https://tryhackme.com/khatiwadaabhi123/badges/first-4-rooms?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=696111927ade7f19ae5499aa" target="_blank">
     <img width="120" height="120" alt="TryHackMe First 4 Rooms Badge" src="https://assets.tryhackme.com/img/badges/firstfour.png"/>
   </a>
 </p>
