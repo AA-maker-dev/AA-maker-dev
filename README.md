@@ -73,6 +73,7 @@
   <a href="https://tryhackme.com/room/dnsindetail?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&sharerId=696111927ade7f19ae5499aa" target="_blank"><img width="80" height="80" alt="DNS in Detail Room" src="https://tryhackme-images.s3.amazonaws.com/room-icons/presec-room-image9.png"/></a>
   <a href="https://tryhackme.com/room/httpindetail?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&sharerId=696111927ade7f19ae5499aa" target="_blank"><img width="80" height="80" alt="HTTP in Detail Room" src="https://tryhackme-images.s3.amazonaws.com/room-icons/presec-room-image10.png"/></a>
   <a href="https://tryhackme.com/room/howwebsiteswork?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&sharerId=696111927ade7f19ae5499aa" target="_blank"><img width="80" height="80" alt="How Websites Work Room" src="https://tryhackme-images.s3.amazonaws.com/room-icons/presec-room-image11.png"/></a>
+  <a href="https://tryhackme.com/room/puttingitalltogether?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&sharerId=696111927ade7f19ae5499aa" target="_blank"><img width="80" height="80" alt="Putting It All Together Room" src="https://tryhackme-images.s3.amazonaws.com/room-icons/presec-room-image12.png"/></a>
 </p>
 
 
