@@ -1,6 +1,4 @@
-<div style="transform: scaleY(-1); display: block;">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:00d4ff,70:00ff88,100:ffdd54&height=150&section=header&animation=twinkling" width="100%" />
 
 <p align="center">
   <a href="https://github.com/AA-maker-dev">
