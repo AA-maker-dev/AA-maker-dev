@@ -100,9 +100,12 @@
 <summary><b>🗣️ Languages</b></summary>
 <br>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,php&theme=dark&perline=6" />
-  </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" /></a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" /></a>
+  <a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" /></a>
+  <a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" /></a>
+  <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://skillicons.dev/icons?i=javascript&theme=dark" alt="JavaScript" /></a>
+  <a href="https://en.wikipedia.org/wiki/PHP"><img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" /></a>
 </p>
 </details>
 
@@ -110,9 +113,10 @@
 <summary><b>🌐 Web & UI</b></summary>
 <br>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark&perline=6" />
-  </a>
+  <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" /></a>
+  <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" /></a>
+  <a href="https://en.wikipedia.org/wiki/React_(software)"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" /></a>
+  <a href="https://en.wikipedia.org/wiki/Tailwind_CSS"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" /></a>
 </p>
 </details>
 
@@ -120,9 +124,12 @@
 <summary><b>⚙️ Backend & DevOps</b></summary>
 <br>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,docker,aws,azure&theme=dark&perline=6" />
-  </a>
+  <a href="https://en.wikipedia.org/wiki/Flask_(web_framework)"><img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Flask" /></a>
+  <a href="https://en.wikipedia.org/wiki/FastAPI"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" /></a>
+  <a href="https://en.wikipedia.org/wiki/Node.js"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" /></a>
+  <a href="https://en.wikipedia.org/wiki/Docker_(software)"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" /></a>
+  <a href="https://en.wikipedia.org/wiki/Amazon_Web_Services"><img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" /></a>
+  <a href="https://en.wikipedia.org/wiki/Microsoft_Azure"><img src="https://skillicons.dev/icons?i=azure&theme=dark" alt="Azure" /></a>
 </p>
 </details>
 
@@ -130,13 +137,12 @@
 <summary><b>🧠 AI / ML</b></summary>
 <br>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=6" />
-  </a>
+  <a href="https://en.wikipedia.org/wiki/TensorFlow"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="TensorFlow" /></a>
+  <a href="https://en.wikipedia.org/wiki/PyTorch"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="PyTorch" /></a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib&logoColor=black" />
+  <a href="https://en.wikipedia.org/wiki/NumPy"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /></a>
+  <a href="https://en.wikipedia.org/wiki/Matplotlib"><img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib&logoColor=black" /></a>
 </p>
 </details>
 
@@ -144,12 +150,11 @@
 <summary><b>🗄️ Databases</b></summary>
 <br>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark&perline=6" />
-  </a>
+  <a href="https://en.wikipedia.org/wiki/MySQL"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" /></a>
+  <a href="https://en.wikipedia.org/wiki/PostgreSQL"><img src="https://skillicons.dev/icons?i=postgresql&theme=dark" alt="PostgreSQL" /></a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <a href="https://en.wikipedia.org/wiki/MariaDB"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /></a>
 </p>
 </details>
 
@@ -157,9 +162,12 @@
 <summary><b>🛠️ Tools & Platforms</b></summary>
 <br>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,figma&theme=dark&perline=6" />
-  </a>
+  <a href="https://en.wikipedia.org/wiki/Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" /></a>
+  <a href="https://en.wikipedia.org/wiki/GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /></a>
+  <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" /></a>
+  <a href="https://en.wikipedia.org/wiki/Linux"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" /></a>
+  <a href="https://en.wikipedia.org/wiki/Postman_(software)"><img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" /></a>
+  <a href="https://en.wikipedia.org/wiki/Figma"><img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" /></a>
 </p>
 </details>
 
