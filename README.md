@@ -1,7 +1,15 @@
-<h1 align="center">Hey 👋, I'm Abhi Khatiwada</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:00ff88&height=220&section=header&text=Abhi%20Khatiwada&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Cybersecurity%20Explorer&descAlignY=55&descSize=18&descColor=c9d1d9" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer;AI+%26+ML+Enthusiast;Always+Learning+%26+Building" />
+  <a href="https://github.com/AA-maker-dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+Profile!;%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%A4%96+AI+%26+ML+Enthusiast;%F0%9F%9A%80+Always+Learning+%26+Building" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AA-maker-dev&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/AA-maker-dev?style=for-the-badge&color=00ff88&labelColor=0d1117&label=Followers" />
+  <img src="https://img.shields.io/github/stars/AA-maker-dev?style=for-the-badge&color=ffdd54&labelColor=0d1117&label=Stars" />
 </p>
 
 <p align="center">
@@ -10,57 +18,91 @@
   </a>
 </p>
 
-## About Me  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-- Passionate about **building real-world projects**  
-- Strong interest in **AI, ML & automation**  
-- Active **hackathon participant** & project shipper  
-- Always learning and leveling up
----
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me  
 
-## Contribution Graph:
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
+- 🔥 Passionate about **building real-world projects**  
+- 🤖 Strong interest in **AI, ML & automation**  
+- 🏆 Active **hackathon participant** & project shipper  
+- 📚 Always learning and leveling up
+- 🔐 Exploring **Cybersecurity & Ethical Hacking**
+
+<br clear="right"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📊 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AA-maker-dev&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AA-maker-dev&bg_color=0d1117&color=00d4ff&line=00ff88&point=ffdd54&area_color=00d4ff&area=true&hide_border=true&custom_title=Contribution%20Activity" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### Languages  
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Tech Stack
 
-### Web & UI  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+<details open>
+<summary><b>🗣️ Languages</b></summary>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,php&theme=dark&perline=6" />
+  </a>
+</p>
+</details>
 
-### Backend & DevOps  
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0072C6?logo=microsoftazure&logoColor=white)
+<details open>
+<summary><b>🌐 Web & UI</b></summary>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark&perline=6" />
+  </a>
+</p>
+</details>
 
-### AI / ML  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-white?logo=matplotlib)
+<details open>
+<summary><b>⚙️ Backend & DevOps</b></summary>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,docker,aws,azure&theme=dark&perline=6" />
+  </a>
+</p>
+</details>
 
-### Databases  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb)
+<details open>
+<summary><b>🧠 AI / ML</b></summary>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=6" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib&logoColor=black" />
+</p>
+</details>
 
----
+<details open>
+<summary><b>🗄️ Databases</b></summary>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark&perline=6" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+</p>
+</details>
 
-## Badges
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🏅 Badges
 
 <p align="center">
   <a href="https://www.credly.com/earner/earned/badge/d1422490-fb78-4886-91b0-4bd00136c2f5" target="_blank"><img width="80" height="80" alt="ai-automation-explorer" src="https://github.com/user-attachments/assets/e5d91e52-9124-4de3-99ff-1b57030637a1"/></a>
@@ -77,37 +119,46 @@
   <a href="https://tryhackme.com/dashboard?badge=khatiwadaabhi123:world-wide-web" target="_blank"><img width="80" height="80" alt="World Wide Web Badge" src="https://assets.tryhackme.com/img/badges/howthewebworks.png"/></a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
-
-## GitHub Stats  
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats  
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AA-maker-dev&theme=dark" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AA-maker-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=00d4ff&title_color=00ff88&text_color=c9d1d9" />
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=AA-maker-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00ff88&currStreakLabel=00d4ff" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AA-maker-dev&theme=dark&layout=compact" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AA-maker-dev&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&layout=compact" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## Contact  
-
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/abhi_khatiwada?igsh=MW42a2t6NXJ4cGNwbA==) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@abh1-o2c?si=rXWFVsnnPX3t5DbJ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khatiwadaabhi123@gmail.com) 
-
----
-
-⭐ *If you like my work, consider starring my repositories!*  
-
----
-
-## Contribution Activity
+## 🐍 Contribution Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AA-maker-dev/AA-maker-dev/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AA-maker-dev/AA-maker-dev/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AA-maker-dev/AA-maker-dev/output/pacman-contribution-graph.svg">
 </picture>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect With Me
+
+<p align="center">
+  <a href="https://www.instagram.com/abhi_khatiwada?igsh=MW42a2t6NXJ4cGNwbA=="><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://youtube.com/@abh1-o2c?si=rXWFVsnnPX3t5DbJ"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
+  <a href="mailto:khatiwadaabhi123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<p align="center">
+  ⭐ <i>If you like my work, consider starring my repositories!</i> ⭐
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:00ff88&height=120&section=footer" />
 
