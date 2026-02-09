@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/AA-maker-dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+Profile!;%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%A4%96+AI+%26+ML+Enthusiast;" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=100&lines=Building+AI+that+solves+real+problems+%F0%9F%9A%80;From+Nepal%2C+shipping+code+worldwide+%F0%9F%8C%8F;Hackathon+warrior+%26+open-source+contributor+%F0%9F%8F%86;Cybersecurity+explorer+%26+ethical+hacker+%F0%9F%94%90" />
   </a>
 </p>
 
@@ -12,25 +12,72 @@
   <img src="https://img.shields.io/github/stars/AA-maker-dev?style=for-the-badge&color=ffdd54&labelColor=0d1117&label=Stars" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/AA-maker-dev/AA-maker-dev">
-    <img src="https://phone-customization.vercel.app/api/Phone?text=AK&textColor=000000&textBg=ffffff&color=a61c1c&displayColor=c89d9d&phoneBtn=bfa6a6" alt="phone widget" />
-  </a>
-</p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me  
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-- 🔥 Passionate about **building real-world projects**  
-- 🤖 Strong interest in **AI, ML & automation**  
-- 🏆 Active **hackathon participant** & project shipper  
-- 📚 Always learning and leveling up
-- 🔐 Exploring **Cybersecurity & Ethical Hacking**
+- 🔥 Currently building **AI-powered tools** & **full-stack web apps**
+- 🤖 Passionate about **AI/ML, LLMs & intelligent automation**
+- 🏆 Active **hackathon participant** — shipped real-world projects
+- 🔐 Exploring **Cybersecurity, Ethical Hacking & Red Teaming**
+- 🌱 Currently learning **LangChain, RAG pipelines & cloud security**
+- 🌏 Based in **Nepal** | Open to **collaborations worldwide**
+- 🌐 Portfolio: **[abhi88.com.np](http://abhi88.com.np)**
 
 <br clear="right"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> Featured Projects
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🆘 Disaster Early Help Platform</h3>
+      <p align="center">
+        <a href="https://github.com/AA-maker-dev/Disaster-Early-Help-Platform">
+          <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">A real-time disaster response platform connecting victims with helpers using geo-location & alerts.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 AI Mental Health Chatbot</h3>
+      <p align="center">
+        <a href="https://github.com/AA-maker-dev/AI-Powered-Mental-Health-Chatbot">
+          <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">An AI-powered chatbot providing empathetic mental health support and resources.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛡️ AI Scam Message Detector</h3>
+      <p align="center">
+        <a href="https://github.com/AA-maker-dev/AI-Scam-Message-Detector">
+          <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">ML-powered tool that classifies messages as scam or legitimate using NLP techniques.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -100,9 +147,19 @@
 </p>
 </details>
 
+<details open>
+<summary><b>🛠️ Tools & Platforms</b></summary>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,figma&theme=dark&perline=6" />
+  </a>
+</p>
+</details>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏅 Badges
+## 🏅 Certifications & Badges
 
 <p align="center">
   <a href="https://www.credly.com/earner/earned/badge/d1422490-fb78-4886-91b0-4bd00136c2f5" target="_blank"><img width="80" height="80" alt="ai-automation-explorer" src="https://github.com/user-attachments/assets/e5d91e52-9124-4de3-99ff-1b57030637a1"/></a>
@@ -138,7 +195,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🐍 Contribution Activity
+## �️ Contribution Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AA-maker-dev/AA-maker-dev/output/pacman-contribution-graph-dark.svg">
@@ -151,6 +208,8 @@
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect With Me
 
 <p align="center">
+  <a href="http://abhi88.com.np"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=00d4ff" /></a>
+  <a href="https://www.facebook.com/khatiwada.abhi/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
   <a href="https://www.instagram.com/abhi_khatiwada?igsh=MW42a2t6NXJ4cGNwbA=="><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
   <a href="https://youtube.com/@abh1-o2c?si=rXWFVsnnPX3t5DbJ"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
   <a href="mailto:khatiwadaabhi123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
