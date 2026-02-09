@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:00ff88&height=220&section=header&text=Abhi%20Khatiwada&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Cybersecurity%20Explorer&descAlignY=55&descSize=18&descColor=c9d1d9" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Abhi%20Khatiwada&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Cybersecurity%20Explorer&descAlignY=55&descSize=18&descColor=c9d1d9" />
 
 <p align="center">
   <a href="https://github.com/AA-maker-dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+Profile!;%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%A4%96+AI+%26+ML+Enthusiast;%F0%9F%9A%80+Always+Learning+%26+Building" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+Profile!;%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%A4%96+AI+%26+ML+Enthusiast;" />
   </a>
 </p>
 
@@ -160,5 +160,5 @@
   ⭐ <i>If you like my work, consider starring my repositories!</i> ⭐
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:00ff88&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" />
 
