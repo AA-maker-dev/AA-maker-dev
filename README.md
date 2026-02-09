@@ -124,12 +124,12 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats  
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AA-maker-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=00d4ff&title_color=00ff88&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AA-maker-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=00d4ff&title_color=00ff88&text_color=c9d1d9" />
   <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=AA-maker-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00ff88&currStreakLabel=00d4ff" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AA-maker-dev&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&layout=compact" />
+  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AA-maker-dev&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&layout=compact" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
