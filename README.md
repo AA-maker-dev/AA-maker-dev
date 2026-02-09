@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Abhi%20Khatiwada&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Cybersecurity%20Explorer&descAlignY=55&descSize=18&descColor=c9d1d9)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://github.com/AA-maker-dev">
