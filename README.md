@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" style="transform: scaleY(-1);" />
+<div style="transform: scaleY(-1); display: block;">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
+</div>
 
 <p align="center">
   <a href="https://github.com/AA-maker-dev">
