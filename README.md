@@ -119,6 +119,7 @@
   <a href="https://tryhackme.com/dashboard?badge=khatiwadaabhi123:world-wide-web" target="_blank"><img width="80" height="80" alt="World Wide Web Badge" src="https://assets.tryhackme.com/img/badges/howthewebworks.png"/></a>
   <a href="https://tryhackme.com/room/osintchallengeiv?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=696111927ade7f19ae5499aa" target="_blank"><img width="80" height="80" alt="OSINT Challenge IV Room" src="https://tryhackme-images.s3.amazonaws.com/room-icons/5dbea226085ab6182a2ee0f7-1769446630867"/></a>
   <a href="https://tryhackme.com/room/searchskills?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=696111927ade7f19ae5499aa" target="_blank"><img width="80" height="80" alt="Search Skills Room" src="https://tryhackme-images.s3.amazonaws.com/room-icons/5f04259cf9bf5b57aed2c476-1718102661617"/></a>
+  <a href="https://tryhackme.com/room/windowsfundamentals2x0x?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&sharerId=696111927ade7f19ae5499aa" target="_blank"><img width="80" height="80" alt="Windows Fundamentals 2 Room" src="https://tryhackme-images.s3.amazonaws.com/room-icons/presec-room-image15.png"/></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
