@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/AA-maker-dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=100&lines=Building+AI+that+solves+real+problems+%F0%9F%9A%80;From+Nepal%2C+shipping+code+worldwide+%F0%9F%8C%8F;Hackathon+warrior+%26+open-source+contributor+%F0%9F%8F%86;Cybersecurity+explorer+%26+ethical+hacker+%F0%9F%94%90" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=140&lines=Building+AI+that+solves+real+problems+%F0%9F%9A%80;From+Nepal%2C+shipping+code+worldwide+%F0%9F%8C%8F;Hackathon+warrior+%26+open-source+contributor+%F0%9F%8F%86;Cybersecurity+explorer+%26+ethical+hacker+%F0%9F%94%90" />
   </a>
 </p>
 
