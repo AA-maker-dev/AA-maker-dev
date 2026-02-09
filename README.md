@@ -63,18 +63,24 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🛡️ AI Scam Message Detector</h3>
-      <p align="center">
-        <a href="https://github.com/AA-maker-dev/AI-Scam-Message-Detector">
-          <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">ML-powered tool that classifies messages as scam or legitimate using NLP techniques.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-      </p>
+    <td colspan="2">
+      <table align="center" width="50%">
+        <tr>
+          <td valign="top">
+            <h3 align="center">🛡️ AI Scam Message Detector</h3>
+            <p align="center">
+              <a href="https://github.com/AA-maker-dev/AI-Scam-Message-Detector">
+                <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+              </a>
+            </p>
+            <p align="center">ML-powered tool that classifies messages as scam or legitimate using NLP techniques.</p>
+            <p align="center">
+              <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+              <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+            </p>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
