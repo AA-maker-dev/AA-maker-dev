@@ -192,7 +192,7 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AA-maker-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=00d4ff&title_color=00ff88&text_color=c9d1d9" />
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=AA-maker-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00ff88&currStreakLabel=00d4ff" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=AA-maker-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00ff88&currStreakLabel=00d4ff" />
 </p>
 
 <p align="center">
