@@ -181,6 +181,8 @@
   <a href="https://www.credly.com/badges/74d436dd-fb57-45f5-b09f-d9f76a7dd940/public_url" target="_blank"><img width="80" height="80" alt="make-basics" src="https://github.com/user-attachments/assets/0a590f65-48f3-4bbc-bdbd-a104eb804d5d"/></a>
   <a href="https://tryhackme.com/khatiwadaabhi123/badges/terminaled?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=696111927ade7f19ae5499aa" target="_blank"><img width="80" height="80" alt="TryHackMe Terminaled Badge" src="https://assets.tryhackme.com/img/badges/linux.png"/></a>
   <a href="https://tryhackme.com/khatiwadaabhi123/badges/first-4-rooms?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=696111927ade7f19ae5499aa" target="_blank"><img width="80" height="80" alt="TryHackMe First 4 Rooms Badge" src="https://assets.tryhackme.com/img/badges/firstfour.png"/></a>
+  <a href="https://tryhackme.com/khatiwadaabhi123/badges/web-fund" target="_blank"><img width="80" height="80" alt="TryHackMe Webbed Badge" src="https://assets.tryhackme.com/img/badges/webbed.png"/></a>
+  <a href="https://tryhackme.com/khatiwadaabhi123/badges/bronze-league" target="_blank"><img width="80" height="80" alt="TryHackMe Bronze League Badge" src="https://assets.tryhackme.com/img/badges/league-bronze.png"/></a>
   <a href="https://tryhackme.com/dashboard?badge=khatiwadaabhi123:world-wide-web" target="_blank"><img width="80" height="80" alt="World Wide Web Badge" src="https://assets.tryhackme.com/img/badges/howthewebworks.png"/></a>
 </p>
 
