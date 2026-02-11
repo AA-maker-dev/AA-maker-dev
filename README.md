@@ -225,9 +225,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
-<p align="center">
-  ⭐ <i>If you like my work, consider starring my repositories!</i> ⭐
-</p>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
+
 
