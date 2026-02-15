@@ -185,6 +185,8 @@
   <a href="https://tryhackme.com/AbhiKhatiwada/badges/bronze-league" target="_blank"><img width="80" height="80" alt="TryHackMe Bronze League Badge" src="https://assets.tryhackme.com/img/badges/league-bronze.png"/></a>
   <a href="https://tryhackme.com/dashboard?badge=AbhiKhatiwada:world-wide-web" target="_blank"><img width="80" height="80" alt="World Wide Web Badge" src="https://assets.tryhackme.com/img/badges/howthewebworks.png"/></a>
   <a href="https://tryhackme.com/AbhiKhatiwada/badges/3-million-legend?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=696111927ade7f19ae5499aa" target="_blank"><img width="80" height="80" alt="World Wide Web Badge" src="https://assets.tryhackme.com/img/badges/3million.png"/></a>
+  <a href="https://tryhackme.com/AbhiKhatiwada/badges/blue?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=696111927ade7f19ae5499aa" target="_blank"><img width="80" height="80" alt="TryHackMe Blue Badge" src="https://assets.tryhackme.com/img/badges/blue.png"/></a>
+  <a href="https://tryhackme.com/AbhiKhatiwada/badges/mr-robot?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=696111927ade7f19ae5499aa" target="_blank"><img width="80" height="80" alt="TryHackMe Mr. Robot Badge" src="https://assets.tryhackme.com/img/badges/mrrobot.png"/></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
