@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" style="transform: rotate(180deg); display: block;" />
-
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me  
 
@@ -23,4 +21,4 @@
   <a href="https://tryhackme.com/AbhiKhatiwada/badges/mr-robot?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=696111927ade7f19ae5499aa" target="_blank"><img width="80" height="80" alt="TryHackMe Mr. Robot Badge" src="https://assets.tryhackme.com/img/badges/mrrobot.png"/></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
+
