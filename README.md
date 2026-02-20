@@ -1,16 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:00d4ff,70:00ff88,100:ffdd54&height=150&section=header&animation=twinkling" width="100%" />
 
-<p align="center">
-  <a href="https://github.com/AA-maker-dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=140&lines=Building+AI+that+solves+real+problems+%F0%9F%9A%80;From+Nepal%2C+shipping+code+worldwide+%F0%9F%8C%8F;Hackathon+warrior+%26+open-source+contributor+%F0%9F%8F%86;Cybersecurity+explorer+%26+ethical+hacker+%F0%9F%94%90" />
-  </a>
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AA-maker-dev&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/AA-maker-dev?style=for-the-badge&color=00ff88&labelColor=0d1117&label=Followers" />
-  <img src="https://img.shields.io/github/stars/AA-maker-dev?style=for-the-badge&color=ffdd54&labelColor=0d1117&label=Stars" />
-</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -215,6 +205,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect With Me <p align="center"> <a href="http://abhi88.com.np"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=00d4ff" /></a> <a href="https://youtube.com/@abh1-o2c?si=rXWFVsnnPX3t5DbJ"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a> <a href="mailto:khatiwadaabhi123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p> <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> </p>
+
 
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
