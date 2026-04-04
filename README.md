@@ -1,4 +1,4 @@
-## 🏅 Certifications & Badges
+## 🏅 Digital Badges
 
 <p align="center">
   <a href="https://www.credly.com/badges/d1422490-fb78-4886-91b0-4bd00136c2f5/public_url" target="_blank"><img width="80" height="80" alt="ai-automation-explorer" src="https://github.com/user-attachments/assets/e5d91e52-9124-4de3-99ff-1b57030637a1"/></a>
