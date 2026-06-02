@@ -4,6 +4,7 @@
 <a href="https://www.credly.com/badges/d1422490-fb78-4886-91b0-4bd00136c2f5/public_url" target="_blank"><img width="80" src="https://github.com/user-attachments/assets/e5d91e52-9124-4de3-99ff-1b57030637a1"/></a>
 <a href="https://www.credly.com/badges/3f70d846-b26b-4cf8-b0fd-472fda8d298b/public_url" target="_blank"><img width="80" src="https://github.com/user-attachments/assets/91d158d5-c7e3-457d-ae1e-715da3219f37"/></a>
 <a href="https://www.credly.com/badges/74d436dd-fb57-45f5-b09f-d9f76a7dd940/public_url" target="_blank"><img width="80" src="https://github.com/user-attachments/assets/0a590f65-48f3-4bbc-bdbd-a104eb804d5d"/></a>
+<a href="https://www.credly.com/badges/77b3b35d-1236-4c96-885f-5bd5b1a892ba/public_url" target="_blank"><img width="80" src="https://images.credly.com/size/220x220/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob"/></a>
 <a href="https://tryhackme.com/AbhiKhatiwada/badges/terminaled?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=696111927ade7f19ae5499aa" target="_blank"><img width="80" src="https://assets.tryhackme.com/img/badges/linux.png"/></a>
 <a href="https://tryhackme.com/AbhiKhatiwada/badges/first-4-rooms?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=696111927ade7f19ae5499aa" target="_blank"><img width="80" src="https://assets.tryhackme.com/img/badges/firstfour.png"/></a>
 <a href="https://tryhackme.com/AbhiKhatiwada/badges/web-fund" target="_blank"><img width="80" src="https://assets.tryhackme.com/img/badges/webbed.png"/></a>
