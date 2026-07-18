@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Abhi Khatiwada
 
 <p align="center">
-  <em>| Frontend Developer |</em>
+  <em>| Full Stack Developer |</em>
 </p>
 
 <p align="center">
   <a href="https://github.com/AA-maker-dev">
-    <img src="https://komarev.com/ghpvc/?username=aa-maker-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=AA-maker-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   </a>
   <a href="https://github.com/AA-maker-dev?tab=followers">
-    <img src="https://img.shields.io/github/followers/aa-maker-dev?label=Followers&style=social" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/AA-maker-dev?label=Followers&style=social" alt="Followers"/>
   </a>
   <a href="https://linkedin.com/in/abhi-khatiwada">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -24,7 +24,7 @@
 ## 🟩 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aa-maker-dev&theme=github-dark&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=AA-maker-dev&theme=dark&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=ffffff&dates=aaaaaa" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -32,8 +32,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aa-maker-dev&show_icons=true&theme=github-dark&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aa-maker-dev&layout=compact&theme=github-dark&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AA-maker-dev&show_icons=true&theme=github-dark&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AA-maker-dev&layout=compact&theme=github-dark&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 </p>
 
 ---
@@ -59,14 +59,17 @@
 ## 🚀 Featured Projects
 
 <p align="center">
+  <a href="https://github.com/AA-maker-dev/Compression">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AA-maker-dev&repo=Compression&theme=github-dark&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&border_color=30363d" alt="Compression"/>
+  </a>
   <a href="https://github.com/AA-maker-dev/Disaster-Early-Help-Platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aa-maker-dev&repo=Disaster-Early-Help-Platform&theme=github-dark&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&border_color=30363d" alt="Disaster Platform"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AA-maker-dev&repo=Disaster-Early-Help-Platform&theme=github-dark&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&border_color=30363d" alt="Disaster Platform"/>
   </a>
   <a href="https://github.com/AA-maker-dev/AI-Powered-Mental-Health-Chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aa-maker-dev&repo=AI-Powered-Mental-Health-Chatbot&theme=github-dark&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&border_color=30363d" alt="AI Mental Health"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AA-maker-dev&repo=AI-Powered-Mental-Health-Chatbot&theme=github-dark&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&border_color=30363d" alt="AI Mental Health"/>
   </a>
   <a href="https://github.com/AA-maker-dev/AI-Scam-Message-Detector">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aa-maker-dev&repo=AI-Scam-Message-Detector&theme=github-dark&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&border_color=30363d" alt="AI Scam Detector"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AA-maker-dev&repo=AI-Scam-Message-Detector&theme=github-dark&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&border_color=30363d" alt="AI Scam Detector"/>
   </a>
 </p>
 
