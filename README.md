@@ -1,3 +1,43 @@
+# 👋 Hi, I'm Abhi Khatiwada
+
+<p align="center">
+  <em>| Frontend Developer |</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/AA-maker-dev">
+    <img src="https://komarev.com/ghpvc/?username=aa-maker-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/AA-maker-dev?tab=followers">
+    <img src="https://img.shields.io/github/followers/aa-maker-dev?label=Followers&style=social" alt="Followers"/>
+  </a>
+  <a href="https://linkedin.com/in/abhi-khatiwada">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://abhi88.com.np">
+    <img src="https://img.shields.io/badge/-Portfolio-FF6B35?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+---
+
+## 🟩 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aa-maker-dev&theme=github-dark&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aa-maker-dev&show_icons=true&theme=github-dark&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aa-maker-dev&layout=compact&theme=github-dark&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+</p>
+
+---
+
 ## 🏅 Digital Badges
 
 <p align="center">
@@ -12,4 +52,37 @@
 <a href="https://tryhackme.com/dashboard?badge=AbhiKhatiwada:world-wide-web" target="_blank"><img width="80" src="https://assets.tryhackme.com/img/badges/howthewebworks.png"/></a>
 <a href="https://tryhackme.com/AbhiKhatiwada/badges/blue?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=696111927ade7f19ae5499aa" target="_blank"><img width="80" src="https://assets.tryhackme.com/img/badges/blue.png"/></a>
 <a href="https://tryhackme.com/AbhiKhatiwada/badges/mr-robot?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=696111927ade7f19ae5499aa" target="_blank"><img width="80" src="https://assets.tryhackme.com/img/badges/mrrobot.png"/></a>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/AA-maker-dev/Disaster-Early-Help-Platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aa-maker-dev&repo=Disaster-Early-Help-Platform&theme=github-dark&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&border_color=30363d" alt="Disaster Platform"/>
+  </a>
+  <a href="https://github.com/AA-maker-dev/AI-Powered-Mental-Health-Chatbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aa-maker-dev&repo=AI-Powered-Mental-Health-Chatbot&theme=github-dark&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&border_color=30363d" alt="AI Mental Health"/>
+  </a>
+  <a href="https://github.com/AA-maker-dev/AI-Scam-Message-Detector">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aa-maker-dev&repo=AI-Scam-Message-Detector&theme=github-dark&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&border_color=30363d" alt="AI Scam Detector"/>
+  </a>
+</p>
+
+---
+
+## 💡 About Me
+
+- 🔭 Currently building AI-powered tools & full-stack web apps
+- 🤖 Passionate about AI/ML, LLMs & intelligent automation
+- 🏆 Active hackathon participant — shipped real-world projects
+- 🔐 Exploring Cybersecurity, Ethical Hacking & Red Teaming
+- 🌱 Learning LangChain, RAG pipelines & cloud security
+- 📍 Based in Nepal | Open to collaborations worldwide
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff00,100:0d1117&height=200&section=footer&text=Thanks%20for%20visiting!%20Let's%20build%20something%20amazing%20together!&fontSize=16&fontColor=00ff00" alt="Footer"/>
 </p>
