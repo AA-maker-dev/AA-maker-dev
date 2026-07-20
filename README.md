@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Abhi Khatiwada
+#  Hi, I'm Abhi Khatiwada
 
 <p align="center">
-  <em>| Full Stack Developer |</em>
+  <em>| Frontend Developer |</em>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ---
 
-## 🟩 GitHub Contribution Streak
+##  GitHub Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AA-maker-dev&theme=dark&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=ffffff&dates=aaaaaa" alt="GitHub Streak"/>
@@ -29,16 +29,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AA-maker-dev&show_icons=true&theme=github-dark&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AA-maker-dev&layout=compact&theme=github-dark&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-</p>
-
----
-
-## 🏅 Digital Badges
+##  Digital Badges
 
 <p align="center">
 <a href="https://www.credly.com/badges/77b3b35d-1236-4c96-885f-5bd5b1a892ba/public_url" target="_blank"><img width="90" src="https://images.credly.com/size/220x220/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob"/></a>
