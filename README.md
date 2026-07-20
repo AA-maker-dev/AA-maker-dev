@@ -60,17 +60,6 @@
 
 ---
 
-## 💡 About Me
-
-- 🔭 Currently building AI-powered tools & full-stack web apps
-- 🤖 Passionate about AI/ML, LLMs & intelligent automation
-- 🏆 Active hackathon participant — shipped real-world projects
-- 🔐 Exploring Cybersecurity, Ethical Hacking & Red Teaming
-- 🌱 Learning LangChain, RAG pipelines & cloud security
-- 📍 Based in Nepal | Open to collaborations worldwide
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff00,100:0d1117&height=200&section=footer&text=Thanks%20for%20visiting!%20Let's%20build%20something%20amazing%20together!&fontSize=16&fontColor=00ff00" alt="Footer"/>
 </p>
