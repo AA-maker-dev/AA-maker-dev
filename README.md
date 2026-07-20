@@ -41,25 +41,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/AA-maker-dev/Compression">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AA-maker-dev&repo=Compression&theme=github-dark&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&border_color=30363d" alt="Compression"/>
-  </a>
-  <a href="https://github.com/AA-maker-dev/Disaster-Early-Help-Platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AA-maker-dev&repo=Disaster-Early-Help-Platform&theme=github-dark&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&border_color=30363d" alt="Disaster Platform"/>
-  </a>
-  <a href="https://github.com/AA-maker-dev/AI-Powered-Mental-Health-Chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AA-maker-dev&repo=AI-Powered-Mental-Health-Chatbot&theme=github-dark&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&border_color=30363d" alt="AI Mental Health"/>
-  </a>
-  <a href="https://github.com/AA-maker-dev/AI-Scam-Message-Detector">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AA-maker-dev&repo=AI-Scam-Message-Detector&theme=github-dark&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&border_color=30363d" alt="AI Scam Detector"/>
-  </a>
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff00,100:0d1117&height=200&section=footer&text=Thanks%20for%20visiting!%20Let's%20build%20something%20amazing%20together!&fontSize=16&fontColor=00ff00" alt="Footer"/>
 </p>
