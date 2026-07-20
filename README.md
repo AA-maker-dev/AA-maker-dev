@@ -8,12 +8,6 @@
   <a href="https://github.com/AA-maker-dev">
     <img src="https://komarev.com/ghpvc/?username=AA-maker-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   </a>
-  <a href="https://github.com/AA-maker-dev?tab=followers">
-    <img src="https://img.shields.io/github/followers/AA-maker-dev?label=Followers&style=social" alt="Followers"/>
-  </a>
-  <a href="https://linkedin.com/in/abhi-khatiwada">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
   <a href="https://abhi88.com.np">
     <img src="https://img.shields.io/badge/-Portfolio-FF6B35?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
