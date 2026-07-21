@@ -289,17 +289,6 @@ A collection of IoT experiments combining sensors, microcontrollers, and real-ti
 <br/>
 
 <div align="center">
-
-## 🎲 Fun Facts
-
-</div>
-
-- ⚡ I can spend hours perfecting a single CSS animation
-- 🌙 Most of my best code gets written after midnight
-- 🐧 I enjoy exploring Linux internals and Kali Linux tools for fun
-- ☕ My coffee-to-code output ratio is directly proportional
-- 🧩 I treat every bug as a puzzle, not a problem
-
 <br/>
 
 <div align="center">
@@ -330,7 +319,3 @@ A collection of IoT experiments combining sensors, microcontrollers, and real-ti
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:2D1B4E&height=150&section=footer&text=Thanks%20for%20Visiting%20%F0%9F%9A%80&fontSize=22&fontColor=ffffff&animation=fadeIn"/>
-
-<div align="center">
-<sub>Made with ❤️ by Abhi Khatiwada</sub>
-</div>
