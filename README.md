@@ -245,10 +245,9 @@ A collection of IoT experiments combining sensors, microcontrollers, and real-ti
 
 ## 📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=aa-maker-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0F172A&title_color=7C3AED&icon_color=3B82F6&text_color=E2E8F0&ring_color=22C55E" width="49%"/>
+
 <img src="https://streak-stats.demolab.com?user=aa-maker-dev&theme=radical&hide_border=true&background=0F172A&stroke=7C3AED&ring=3B82F6&fire=22C55E&currStreakLabel=7C3AED" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aa-maker-dev&layout=compact&theme=radical&hide_border=true&bg_color=0F172A&title_color=7C3AED&text_color=E2E8F0" width="49%"/>
 
 ### 📈 Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aa-maker-dev&theme=react-dark&hide_border=true&bg_color=0F172A&color=3B82F6&line=7C3AED&point=22C55E" width="100%"/>
