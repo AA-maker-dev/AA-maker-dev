@@ -37,13 +37,6 @@
   <li>Practicing clean code, performance, and accessibility patterns.</li>
 </ul>
 
-
-<!--GitHub Trophies-->
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?user=aa-maker-dev&theme=darkhub&no-bg=true&no-frame=true&column=4" alt="GitHub Trophies" />
-</p>
-
 <!--Github stats Table--> 
 
 <table width="100%">
@@ -119,12 +112,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aa-maker-dev/AA-maker-dev/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aa-maker-dev/AA-maker-dev/output/pacman-contribution-graph.svg">
   </picture>
-</div>
-
-<!--Dynamic Quote card updates everyday at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-<div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Thought of the Day">
 </div>
 
 <!--Digital Badges-->
