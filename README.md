@@ -38,6 +38,11 @@
 </ul>
 
 
+<!--GitHub Trophies-->
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?user=aa-maker-dev&theme=darkhub&no-bg=true&no-frame=true&column=4" alt="GitHub Trophies" />
+</p>
 
 <!--Github stats Table--> 
 
@@ -78,6 +83,24 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Lᴀɴɢᴜᴀɢᴇs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/aa-maker-dev">
+          <img align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=aa-maker-dev&theme=nightowl&layout=compact&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Languages" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>💎 Cᴏᴍᴍɪᴛ & Sᴛᴀʀ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/aa-maker-dev">
+          <img align="center" src="https://github-readme-stats.shion.dev/api?username=aa-maker-dev&theme=nightowl&show_icons=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs,reviews&show=commits,total_commits,stars&count_private=true" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
 </table>
 <br />
 
@@ -87,7 +110,22 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=aa-maker-dev&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&hide_border=false" style="border-radius: 15px;" alt="Contribution Activity Graph">
 </div>
 
----
+<!--Pacman Contribution Graph-->
+<h2 align="center">👻 Pᴀᴄᴍᴀɴ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 👻</h2>
+<div align="center">
+  <!-- pacman -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aa-maker-dev/AA-maker-dev/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aa-maker-dev/AA-maker-dev/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aa-maker-dev/AA-maker-dev/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
+
+<!--Dynamic Quote card updates everyday at 12 PM--> 
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+<div align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Thought of the Day">
+</div>
 
 <!--Digital Badges-->
 <h2 align="center">🏅 Dɪɢɪᴛᴀʟ Bᴀᴅɢᴇs 🏅</h2>
