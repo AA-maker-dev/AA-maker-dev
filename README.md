@@ -1,10 +1,16 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=aa-maker-dev&theme=aurora&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=aa-maker-dev&theme=aurora&mode=dark" width="100%" alt="Animated profile hero for Alhassane Samassekou" />
+  </picture>
+</p>
 
-# ɪ'ᴍ ᴀʙʜɪ ᴋʜᴀᴛɪᴡᴀᴅᴀ!  
-*Frontend Developer | CS Enthusiast*
-<br /> 
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/wordmark?username=aa-maker-dev&theme=aurora&label=Abhi%20Khatiwada" width="100%" alt="Animated 3D wordmark for Abhi Khatiwada" />
+</p>
 
 <!--Start Intro-->               
-<p align="left">I am a Frontend Developer from **Nepal 🇳🇵**, focused on building fast, accessible, and visually refined web applications. I care deeply about the details most people skip — spacing, motion, contrast, and the small interactions that make a product feel alive. Currently building the Doctor Patient Portal (Full Stack) while deepening my skills in TypeScript, System Design, and SaaS Architecture.</p>
+<p align="left">I am a Frontend Developer from Nepal, focused on building fast, accessible, and visually refined web applications. I care deeply about the details most people skip — spacing, motion, contrast, and the small interactions that make a product feel alive. Currently building the Doctor Patient Portal (Full Stack) while deepening my skills in TypeScript, System Design, and SaaS Architecture.</p>
 
 - ✨ Passionate about crafting intentional, production-ready UI.
 - 🌱 Currently learning TypeScript, System Design, and SaaS Architecture.
@@ -14,13 +20,23 @@
 - 📜 Looking to connect and collaborate with other developers!
 
 <!--End Intro-->
-
-<!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=aa-maker-dev&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="aa-maker-dev" style="padding-right:20px;" />
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=aa-maker-dev&theme=aurora" width="100%" alt="Selected projects by Abhi Khatiwada" />
 </p>
 
 ---
+
+## Engineering signal
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=aa-maker-dev&theme=aurora" width="100%" alt="Technology stack for Abhi Khatiwada" />
+</p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=aa-maker-dev&theme=aurora" width="100%" alt="GitHub activity stats for Abhi Khatiwada" />
+</p>
+
+
 <!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ Sᴛᴀᴄᴋ & Cᴜʀʀᴇɴᴛ Lᴇᴀʀɴɪɴɢ</h2> 
 <picture>
@@ -36,66 +52,9 @@
   <li>Exploring TypeScript, System Design, and backend architecture.</li>
   <li>Practicing clean code, performance, and accessibility patterns.</li>
 </ul>
-
-<!--Github stats Table--> 
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/aa-maker-dev">
-          <img align="center" src="https://github-readme-stats.shion.dev/api?username=aa-maker-dev&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/aa-maker-dev">
-          <img align="center" src="https://streak-stats.demolab.com?user=aa-maker-dev&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/aa-maker-dev?tab=repositories">
-          <img align="center" width="470" src="https://github-readme-stats.shion.dev/api/pin/?username=aa-maker-dev&repo=Disaster-Early-Help-Platform&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Latest Project" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/aa-maker-dev">
-          <img align="center" src="https://github-readme-stats.shion.dev/api?username=aa-maker-dev&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Contributions" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Lᴀɴɢᴜᴀɢᴇs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/aa-maker-dev">
-          <img align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=aa-maker-dev&theme=nightowl&layout=compact&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Languages" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>💎 Cᴏᴍᴍɪᴛ & Sᴛᴀʀ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/aa-maker-dev">
-          <img align="center" src="https://github-readme-stats.shion.dev/api?username=aa-maker-dev&theme=nightowl&show_icons=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs,reviews&show=commits,total_commits,stars&count_private=true" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-<br />
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/highlights?username=asamassekou10&theme=aurora&items=AI%20security::Making%20agent%20systems%20safer|Developer%20tools::Turning%20complex%20workflows%20into%20clear%20interfaces|Open%20source::Building%20useful%20software%20in%20public" width="100%" alt="Current focus areas for Alhassane Samassekou" />
+</p>
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
