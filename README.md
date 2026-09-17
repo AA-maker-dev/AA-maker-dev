@@ -76,8 +76,8 @@
 <!--Digital Badges-->
 <h2 align="center">🏅 Dɪɢɪᴛᴀʟ Bᴀᴅɢᴇs 🏅</h2>
 <p align="center">
-  <a href="https://www.credly.com/badges/77b3b35d-1236-4c96-885f-5bd5b1a892ba/public_url" target="_blank">
-    <img width="80" height="80" src="" alt="Make Intermediate" />
+  <a href="https://canva.link/hwrc9ah3xbgd0mo" target="_blank">
+    <img width="80" height="80" src="https://ci3.googleusercontent.com/meips/ADKq_NYA2LwEnZB99ZdO-NA35_pOxt0PA_Zp9z8shR2EHQFTKLwDQP9hmQug-bvVCBE8hWiLxknS9SGU7JKbbz03avzV4ozw08LS5ZR_YFP7zWCTGNkMpN1W7TzIEpuKtfJYHJYXhPRxASYeVN5jGddCg9pAbO9xdwhqpjOUYlm-Pk_YoheeoGxYGYWlt4MESnu2=s0-d-e1-ft#https://braze-images.com/appboy/communication/assets/image_assets/images/6348a33ff8ff2f58a235dec8/original.png?1665704767" alt="Canva" />
   </a>
   <a href="https://www.credly.com/badges/77b3b35d-1236-4c96-885f-5bd5b1a892ba/public_url" target="_blank">
     <img width="80" height="80" src="https://images.credly.com/size/220x220/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" alt="Make Intermediate" />
