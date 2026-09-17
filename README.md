@@ -77,6 +77,9 @@
 <h2 align="center">🏅 Dɪɢɪᴛᴀʟ Bᴀᴅɢᴇs 🏅</h2>
 <p align="center">
   <a href="https://www.credly.com/badges/77b3b35d-1236-4c96-885f-5bd5b1a892ba/public_url" target="_blank">
+    <img width="80" height="80" src="" alt="Make Intermediate" />
+  </a>
+  <a href="https://www.credly.com/badges/77b3b35d-1236-4c96-885f-5bd5b1a892ba/public_url" target="_blank">
     <img width="80" height="80" src="https://images.credly.com/size/220x220/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" alt="Make Intermediate" />
   </a>
   <a href="https://www.credly.com/badges/d1422490-fb78-4886-91b0-4bd00136c2f5/public_url" target="_blank">
