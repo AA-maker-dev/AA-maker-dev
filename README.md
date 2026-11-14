@@ -18,7 +18,6 @@ frontends that feel as good as they look.
 
 ## What I am working on
 
-- Designing a polished frontend for a **Doctor Patient Portal**.
 - Building reusable components and responsive page layouts.
 - Improving interaction design, accessibility, and frontend performance.
 
