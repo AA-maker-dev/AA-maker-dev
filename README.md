@@ -70,6 +70,9 @@ backend tools.
   <a href="https://www.credly.com/badges/77b3b35d-1236-4c96-885f-5bd5b1a892ba/public_url">
     <img width="72" height="72" src="https://images.credly.com/size/220x220/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" alt="Make Intermediate">
   </a>
+  <a href="https://www.credly.com/badges/b5c0597d-1e78-4869-a3c4-ebfedd076cb4/public_url">
+    <img width="72" height="72" src="https://images.credly.com/size/680x680/images/727c2754-d727-4e27-a1aa-3de2425ce239/blob" alt="Credly certification badge">
+  </a>
   <a href="https://www.credly.com/badges/d1422490-fb78-4886-91b0-4bd00136c2f5/public_url">
     <img width="72" height="72" src="https://github.com/user-attachments/assets/e5d91e52-9124-4de3-99ff-1b57030637a1" alt="AI Automation Explorer">
   </a>
