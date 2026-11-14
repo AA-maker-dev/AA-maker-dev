@@ -2,16 +2,15 @@
 
 # Hi, I'm Abhi Khatiwada 👋
 
-### Frontend Developer • Full-Stack Learner • Product-Focused Builder
+### Frontend Developer • UI Designer • Product-Focused Builder
 
-I build fast, accessible, and polished web experiences from Nepal. My current focus is
-turning thoughtful interfaces into reliable products with TypeScript, React, and modern
-backend tools.
+I design and build fast, accessible, and polished web experiences from Nepal. My work
+focuses on thoughtful layouts, clear visual hierarchy, responsive interactions, and
+frontends that feel as good as they look.
 
-<a href="https://abhi88.com.np">Portfolio</a> ·
+<a href="https://abhi88.com.np"><strong>View my portfolio</strong></a> ·
 <a href="mailto:khatiwadaabhi123@proton.me">Email</a> ·
-<a href="https://github.com/aa-maker-dev">GitHub</a> ·
-<a href="https://leetcode.com/u/8kdFRd6fAT/">LeetCode</a>
+<a href="https://github.com/aa-maker-dev">GitHub</a>
 
 </div>
 
@@ -19,19 +18,25 @@ backend tools.
 
 ## What I am working on
 
-- Building a **Doctor Patient Portal** as a full-stack project.
-- Improving my TypeScript, system design, and SaaS architecture skills.
-- Creating interfaces that are accessible, responsive, and easy to maintain.
-- Learning through practical projects, open source, and consistent problem solving.
+- Designing a polished frontend for a **Doctor Patient Portal**.
+- Building reusable components and responsive page layouts.
+- Improving interaction design, accessibility, and frontend performance.
+
+## Design and frontend focus
+
+- **Visual design:** clean layouts, balanced spacing, contrast, and consistent type.
+- **User experience:** intuitive flows, useful feedback, and accessible interactions.
+- **Frontend craft:** responsive React interfaces with reusable, maintainable components.
+- **Product thinking:** turning ideas into clear, practical experiences that solve real needs.
 
 ## Technical focus
 
 | Area | Tools |
 | --- | --- |
-| Frontend | React, Next.js, TypeScript, Tailwind CSS |
-| Backend | Node.js, REST APIs, authentication, databases |
-| Engineering | System design, accessibility, performance, clean code |
-| Workflow | Git, GitHub, responsive design, iterative delivery |
+| UI and frontend | React, Next.js, TypeScript, Tailwind CSS |
+| Design practice | Responsive layouts, component systems, accessibility, UX |
+| Supporting skills | Node.js, REST APIs, authentication, databases |
+| Workflow | Git, GitHub, prototyping, iterative delivery |
 
 <p align="center">
   <picture>
@@ -43,9 +48,9 @@ backend tools.
 
 ## Current goals
 
-- Ship useful full-stack products with clear user value.
-- Strengthen architecture, testing, and performance practices.
-- Contribute to open-source projects and collaborate with other developers.
+- Grow my frontend and product design portfolio with strong case studies.
+- Ship interfaces that are useful, accessible, and visually refined.
+- Collaborate with designers and developers on meaningful web products.
 
 ## GitHub activity
 
@@ -64,7 +69,7 @@ backend tools.
   </p>
 </details>
 
-## Certifications and learning
+## Learning and credentials
 
 <p align="center">
   <a href="https://www.credly.com/badges/77b3b35d-1236-4c96-885f-5bd5b1a892ba/public_url">
