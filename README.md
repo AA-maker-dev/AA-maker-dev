@@ -62,8 +62,6 @@ frontends that feel as good as they look.
   <summary>View contribution animation</summary>
   <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aa-maker-dev/AA-maker-dev/output/pacman-contribution-graph-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aa-maker-dev/AA-maker-dev/output/pacman-contribution-graph.svg">
       <img src="https://raw.githubusercontent.com/aa-maker-dev/AA-maker-dev/output/pacman-contribution-graph.svg" alt="Pacman contribution graph">
     </picture>
   </p>
@@ -77,6 +75,9 @@ frontends that feel as good as they look.
   </a>
   <a href="https://www.credly.com/badges/b5c0597d-1e78-4869-a3c4-ebfedd076cb4/public_url">
     <img width="72" height="72" src="https://images.credly.com/size/680x680/images/727c2754-d727-4e27-a1aa-3de2425ce239/blob" alt="Credly certification badge">
+  </a>
+  <a href="https://www.credly.com/badges/74d436dd-fb57-45f5-b09f-d9f76a7dd940/public_url">
+    <img width="72" height="72" src="https://images.credly.com/size/680x680/images/dba526ad-3a2f-49af-becf-65d5a66a75ae/image.png" alt="Credly certification badge">
   </a>
   <a href="https://www.credly.com/badges/d1422490-fb78-4886-91b0-4bd00136c2f5/public_url">
     <img width="72" height="72" src="https://github.com/user-attachments/assets/e5d91e52-9124-4de3-99ff-1b57030637a1" alt="AI Automation Explorer">
